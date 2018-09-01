@@ -1,0 +1,1 @@
+H = [rodrigues(om) T; zeros(1, 3) 1;];
